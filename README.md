@@ -1,5 +1,7 @@
 # HerokuDashboardUR
-Data Dashboard to visualize Robot Data on Heroku
+Data Dashboard to visualize Robot Data on Heroku. 
+
+You may view it [here](https://ur-robot-data-app.herokuapp.com/).
 
 # Background
 A web dashboard for data visualization, with the help of mainly Flask, Bootstrap, Plotly and Heroku.
